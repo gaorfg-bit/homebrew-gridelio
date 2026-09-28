@@ -6,8 +6,11 @@ Homebrew tap for **Gridelio** — a macOS window manager (snap layouts, workspac
 
 ```bash
 brew tap gaorfg-bit/gridelio
+brew trust gaorfg-bit/gridelio
 brew install --cask gridelio
 ```
+
+> Homebrew demande de « faire confiance » aux taps tiers (`brew trust`) avant d'installer un cask.
 
 ## Update
 

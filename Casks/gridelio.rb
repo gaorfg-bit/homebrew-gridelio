@@ -12,7 +12,7 @@ cask "gridelio" do
     regex(/v(\d+\.\d+\.\d+)/)
   end
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Gridelio.app"
 end
