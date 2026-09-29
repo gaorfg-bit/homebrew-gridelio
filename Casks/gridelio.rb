@@ -1,6 +1,6 @@
 cask "gridelio" do
-  version "1.0.3"
-  sha256 "0f45cd33288e31530dd1275cbcfdef99f2057f71e971924a9bda1ba90fa26dc2"
+  version "1.0.4"
+  sha256 "f302537c238ae5953227c9027a93e74a211b529f82a893e5842a2ffde8f1d852"
 
   url "https://gridelio.com/downloads/Gridelio.dmg"
   name "Gridelio"
